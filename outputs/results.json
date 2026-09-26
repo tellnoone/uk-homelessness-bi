@@ -1,0 +1,311 @@
+{
+  "data_quality": {
+    "by_check": {
+      "CM01": {
+        "rows_failed": 282,
+        "rows_tested": 356,
+        "status": "WARN"
+      },
+      "CP01": {
+        "rows_failed": 0,
+        "rows_tested": 353,
+        "status": "PASS"
+      },
+      "CP02": {
+        "rows_failed": 11,
+        "rows_tested": 10016,
+        "status": "WARN"
+      },
+      "CP03": {
+        "rows_failed": 0,
+        "rows_tested": 2673,
+        "status": "PASS"
+      },
+      "CS01": {
+        "rows_failed": 0,
+        "rows_tested": 363,
+        "status": "PASS"
+      },
+      "DU01": {
+        "rows_failed": 0,
+        "rows_tested": 1136,
+        "status": "PASS"
+      },
+      "DU02": {
+        "rows_failed": 0,
+        "rows_tested": 10016,
+        "status": "PASS"
+      },
+      "RC01": {
+        "rows_failed": 0,
+        "rows_tested": 4789,
+        "status": "PASS"
+      },
+      "RC02": {
+        "rows_failed": 0,
+        "rows_tested": 5216,
+        "status": "PASS"
+      },
+      "RC03": {
+        "rows_failed": 0,
+        "rows_tested": 414,
+        "status": "PASS"
+      },
+      "RG01": {
+        "rows_failed": 0,
+        "rows_tested": 8457,
+        "status": "PASS"
+      },
+      "RG02": {
+        "rows_failed": 0,
+        "rows_tested": 3668,
+        "status": "PASS"
+      },
+      "RG03": {
+        "rows_failed": 27,
+        "rows_tested": 1548,
+        "status": "WARN"
+      },
+      "RG04": {
+        "rows_failed": 11,
+        "rows_tested": 414,
+        "status": "WARN"
+      },
+      "RG05": {
+        "rows_failed": 0,
+        "rows_tested": 414,
+        "status": "PASS"
+      },
+      "RI01": {
+        "rows_failed": 0,
+        "rows_tested": 773,
+        "status": "PASS"
+      },
+      "RI02": {
+        "rows_failed": 0,
+        "rows_tested": 1452,
+        "status": "PASS"
+      },
+      "RI03": {
+        "rows_failed": 6,
+        "rows_tested": 9,
+        "status": "WARN"
+      },
+      "RI04": {
+        "rows_failed": 0,
+        "rows_tested": 10016,
+        "status": "PASS"
+      }
+    },
+    "checks": {
+      "failed": 0,
+      "passed": 14,
+      "rows_tested": 62083,
+      "total": 19,
+      "warned": 5
+    },
+    "reconciled_values": 10005,
+    "sample_shortfall": {
+      "max_responses_short": 124.4,
+      "min_responses_short": 0.6,
+      "surveys": 11
+    },
+    "u_cells_measure_not_applicable": 25,
+    "unexplained_exclusion_landlords": 3
+  },
+  "landlords": {
+    "in_coverage_file": 363,
+    "with_lcra_survey": 353,
+    "with_management_info": 359
+  },
+  "management_vs_perception": {
+    "CH02_1|TP09": {
+      "landlords": 350,
+      "spearman_rho": 0.414
+    },
+    "RP01|TP04": {
+      "landlords": 351,
+      "spearman_rho": -0.524
+    },
+    "RP02_1|TP02": {
+      "landlords": 350,
+      "spearman_rho": 0.252
+    },
+    "RP02_1|TP03": {
+      "landlords": 350,
+      "spearman_rho": 0.342
+    }
+  },
+  "method_gap": {
+    "landlords": 132,
+    "landlords_100_plus_each": 107,
+    "mean_gap_pts": 14.4,
+    "median_gap_pts": 14.9,
+    "median_gap_pts_100_plus_each": 14.7,
+    "p25_gap_pts": 10.0,
+    "p75_gap_pts": 19.7,
+    "telephone_higher": 125,
+    "telephone_higher_pct": 94.7
+  },
+  "model": {
+    "dim_date": 365,
+    "dim_landlord": 363,
+    "dim_measure": 26,
+    "fact_repairs_target": 359,
+    "fact_survey": 414,
+    "fact_survey_method": 2484,
+    "fact_tsm_result": 10016
+  },
+  "peer_rank": {
+    "Internet": {
+      "bottom_quartile_national": 18,
+      "change_quartile": 11,
+      "landlords": 44,
+      "leave_bottom_quartile": 7,
+      "median_tp01": 67.9,
+      "predominant_method": "Internet"
+    },
+    "Telephone": {
+      "bottom_quartile_national": 55,
+      "change_quartile": 12,
+      "landlords": 242,
+      "leave_bottom_quartile": 0,
+      "median_tp01": 71.7,
+      "predominant_method": "Telephone"
+    }
+  },
+  "repairs_target": {
+    "landlords": 356,
+    "max_target": 260.0,
+    "median_target": 28.0,
+    "min_target": 5.0,
+    "multiple_targets": 282,
+    "multiple_targets_pct": 79.2,
+    "p25_target": 20.0,
+    "p75_target": 60.0
+  },
+  "repairs_target_vs_rp02": {
+    "landlords": 354,
+    "spearman_rho": -0.102
+  },
+  "tp01": {
+    "landlords": 353,
+    "max_tp01": 97.5,
+    "median_tp01": 71.8,
+    "min_tp01": 43.8,
+    "p25_tp01": 64.7,
+    "p75_tp01": 78.9
+  },
+  "tp01_by_peer_attribute": {
+    "Group size|5,000-40,000": {
+      "landlords": 212,
+      "median_tp01": 71.1
+    },
+    "Group size|<5,000": {
+      "landlords": 122,
+      "median_tp01": 74.9
+    },
+    "Group size|>40,000": {
+      "landlords": 19,
+      "median_tp01": 64.6
+    },
+    "Landlord type|LA": {
+      "landlords": 158,
+      "median_tp01": 68.5
+    },
+    "Landlord type|PRP": {
+      "landlords": 195,
+      "median_tp01": 75.4
+    },
+    "Predominant survey method|Face to Face": {
+      "landlords": 15,
+      "median_tp01": 71.0
+    },
+    "Predominant survey method|Internet": {
+      "landlords": 44,
+      "median_tp01": 67.9
+    },
+    "Predominant survey method|No predominant method": {
+      "landlords": 18,
+      "median_tp01": 70.8
+    },
+    "Predominant survey method|Postal": {
+      "landlords": 29,
+      "median_tp01": 77.6
+    },
+    "Predominant survey method|SMS": {
+      "landlords": 5,
+      "median_tp01": 70.6
+    },
+    "Predominant survey method|Telephone": {
+      "landlords": 242,
+      "median_tp01": 71.7
+    },
+    "Region|London": {
+      "landlords": 52,
+      "median_tp01": 61.2
+    },
+    "Region|Midlands": {
+      "landlords": 64,
+      "median_tp01": 75.8
+    },
+    "Region|Mixed": {
+      "landlords": 14,
+      "median_tp01": 67.8
+    },
+    "Region|North": {
+      "landlords": 91,
+      "median_tp01": 76.6
+    },
+    "Region|South": {
+      "landlords": 132,
+      "median_tp01": 72.6
+    }
+  },
+  "tp01_correlation": {
+    "TP02": {
+      "landlords": 353,
+      "spearman_rho": 0.897
+    },
+    "TP03": {
+      "landlords": 353,
+      "spearman_rho": 0.86
+    },
+    "TP04": {
+      "landlords": 353,
+      "spearman_rho": 0.949
+    },
+    "TP05": {
+      "landlords": 353,
+      "spearman_rho": 0.887
+    },
+    "TP06": {
+      "landlords": 353,
+      "spearman_rho": 0.919
+    },
+    "TP07": {
+      "landlords": 353,
+      "spearman_rho": 0.813
+    },
+    "TP08": {
+      "landlords": 353,
+      "spearman_rho": 0.884
+    },
+    "TP09": {
+      "landlords": 352,
+      "spearman_rho": 0.809
+    },
+    "TP10": {
+      "landlords": 352,
+      "spearman_rho": 0.687
+    },
+    "TP11": {
+      "landlords": 353,
+      "spearman_rho": 0.729
+    },
+    "TP12": {
+      "landlords": 353,
+      "spearman_rho": 0.672
+    }
+  }
+}

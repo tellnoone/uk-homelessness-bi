@@ -1,0 +1,7 @@
+method_key,method_code,method_name,method_mode
+1,Telephone,Telephone,Interviewer-led
+2,FacetoFace,Face to face,Interviewer-led
+3,Internet,Internet,Self-completion
+4,Postal,Postal,Self-completion
+5,SMS,SMS,Self-completion
+6,Other,Other,Other

@@ -1,0 +1,5 @@
+tenure_key,tenure_code,tenure_name
+1,LCRA,Low cost rental (tenants)
+2,LCHO,Low cost home ownership (shared owners)
+3,COMB,Combined rental and ownership
+4,ALL,All homes (not split by tenure)

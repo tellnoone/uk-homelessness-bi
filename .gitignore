@@ -17,3 +17,6 @@ data/interim/
 Thumbs.db
 .vscode/
 .idea/
+
+# Warehouse file: rebuilt from data/raw/ by run_all.py on every run
+warehouse/

@@ -1,0 +1,9 @@
+status_key,status_code,status_description,is_usable
+1,REPORTED,Value published,true
+2,[E],Excluded by RSH after review (see RSH comments),false
+3,[S],Suppressed (small number of responses),false
+4,[X],Not available for this breakdown,false
+5,[Z],Not applicable,false
+6,[U],Measure does not apply to this landlord,false
+7,BLANK,Cell left empty in the published file,false
+8,UNPARSEABLE,Text that is neither a number nor a known marker,false

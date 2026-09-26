@@ -1,0 +1,338 @@
+check_id,landlord_code,landlord_name,detail
+CM01,00AA,City of London Corporation,more than one non-emergency target; maximum 20.0
+CM01,00AB,London Borough of Barking and Dagenham,more than one non-emergency target; maximum 65.0
+CM01,00AC,London Borough of Barnet,more than one non-emergency target; maximum 60.0
+CM01,00AE,London Borough of Brent,more than one non-emergency target; maximum 60.0
+CM01,00AG,London Borough of Camden Council,more than one non-emergency target; maximum 125.0
+CM01,00AH,London Borough of Croydon,more than one non-emergency target; maximum 30.0
+CM01,00AJ,London Borough of Ealing,more than one non-emergency target; maximum 20.0
+CM01,00AK,London Borough of Enfield,more than one non-emergency target; maximum 22.0
+CM01,00AL,Royal Borough of Greenwich,more than one non-emergency target; maximum 20.0
+CM01,00AM,London Borough of Hackney,more than one non-emergency target; maximum 21.0
+CM01,00AN,London Borough of Hammersmith and Fulham,more than one non-emergency target; maximum 20.0
+CM01,00AQ,London Borough of Harrow,more than one non-emergency target; maximum 20.0
+CM01,00AR,London Borough of Havering Council,more than one non-emergency target; maximum 28.0
+CM01,00AS,London Borough of Hillingdon,more than one non-emergency target; maximum 90.0
+CM01,00AT,London Borough of Hounslow,more than one non-emergency target; maximum 40.0
+CM01,00AU,London Borough of Islington,more than one non-emergency target; maximum 20.0
+CM01,00AW,Royal Borough of Kensington and Chelsea,more than one non-emergency target; maximum 20.0
+CM01,00AX,Royal Borough of Kingston Upon Thames,more than one non-emergency target; maximum 20.0
+CM01,00AY,London Borough of Lambeth,more than one non-emergency target; maximum 28.0
+CM01,00AZ,London Borough of Lewisham,more than one non-emergency target; maximum 21.0
+CM01,00BB,London Borough of Newham,more than one non-emergency target; maximum 42.0
+CM01,00BE,Southwark Council,more than one non-emergency target; maximum 20.0
+CM01,00BF,London Borough of Sutton,more than one non-emergency target; maximum 20.0
+CM01,00BG,London Borough of Tower Hamlets,more than one non-emergency target; maximum 60.0
+CM01,00BJ,London Borough of Wandsworth,more than one non-emergency target; maximum 60.0
+CM01,00BK,City of Westminster Council,more than one non-emergency target; maximum 28.0
+CM01,00BM,Bury Metropolitan Borough Council,more than one non-emergency target; maximum 60.0
+CM01,00BN,Manchester City Council,more than one non-emergency target; maximum 90.0
+CM01,00BP,Oldham Metropolitan Borough Council,more than one non-emergency target; maximum 21.0
+CM01,00BR,Salford City Council,more than one non-emergency target; maximum 21.0
+CM01,00BW,Wigan Council,more than one non-emergency target; maximum 60.0
+CM01,00CC,Barnsley Metropolitan Borough Council,more than one non-emergency target; maximum 25.0
+CM01,00CE,City of Doncaster Council,more than one non-emergency target; maximum 20.0
+CM01,00CG,Sheffield City Council,more than one non-emergency target; maximum 55.0
+CM01,00CJ,Newcastle City Council,more than one non-emergency target; maximum 21.0
+CM01,00CK,North Tyneside Council,more than one non-emergency target; maximum 45.0
+CM01,00CN,Birmingham City Council,more than one non-emergency target; maximum 30.0
+CM01,00CR,Dudley Metropolitan Borough Council,more than one non-emergency target; maximum 28.0
+CM01,00CS,Sandwell Metropolitan Borough Council,more than one non-emergency target; maximum 40.0
+CM01,00CT,Solihull Metropolitan Borough Council,more than one non-emergency target; maximum 60.0
+CM01,00CW,Wolverhampton City Council,more than one non-emergency target; maximum 65.0
+CM01,00CZ,Kirklees Metropolitan Borough Council,more than one non-emergency target; maximum 25.0
+CM01,00DA,Leeds City Council,more than one non-emergency target; maximum 60.0
+CM01,00EH,Darlington Borough Council,more than one non-emergency target; maximum 40.0
+CM01,00EM,Northumberland County Council,more than one non-emergency target; maximum 30.0
+CM01,00EW,Cheshire West and Chester Council,more than one non-emergency target; maximum 20.0
+CM01,00EY,Blackpool Borough Council,more than one non-emergency target; maximum 28.0
+CM01,00FB,East Riding Of Yorkshire Council,more than one non-emergency target; maximum 56.0
+CM01,00FK,Derby City Council,more than one non-emergency target; maximum 130.0
+CM01,00FN,Leicester City Council,more than one non-emergency target; maximum 260.0
+CM01,00FY,Nottingham City Council,more than one non-emergency target; maximum 90.0
+CM01,00GG,Shropshire Council,more than one non-emergency target; maximum 132.0
+CM01,00HB,Bristol City Council,more than one non-emergency target; maximum 35.0
+CM01,00HE,Cornwall Council,more than one non-emergency target; maximum 20.0
+CM01,00HX,Swindon Borough Council,more than one non-emergency target; maximum 40.0
+CM01,00HY,Wiltshire Council,more than one non-emergency target; maximum 60.0
+CM01,00KA,Luton Borough Council,more than one non-emergency target; maximum 30.0
+CM01,00KF,Southend on Sea City Council,more than one non-emergency target; maximum 20.0
+CM01,00KG,Thurrock Council,more than one non-emergency target; maximum 20.0
+CM01,00LC,Medway Council,more than one non-emergency target; maximum 20.0
+CM01,00MC,Reading Borough Council,more than one non-emergency target; maximum 40.0
+CM01,00MF,Wokingham Borough Council,more than one non-emergency target; maximum 15.0
+CM01,00MS,Southampton City Council,more than one non-emergency target; maximum 60.0
+CM01,12UB,Cambridge City Council,more than one non-emergency target; maximum 20.0
+CM01,12UG,South Cambridgeshire District Council,more than one non-emergency target; maximum 20.0
+CM01,17UC,Bolsover District Council,more than one non-emergency target; maximum 60.0
+CM01,17UH,High Peak Borough Council,more than one non-emergency target; maximum 20.0
+CM01,17UJ,North East Derbyshire District Council,more than one non-emergency target; maximum 45.0
+CM01,17UK,South Derbyshire District Council,more than one non-emergency target; maximum 201.0
+CM01,18UB,East Devon District Council,more than one non-emergency target; maximum 28.0
+CM01,18UD,Mid Devon District Council,more than one non-emergency target; maximum 34.0
+CM01,21UC,Eastbourne Borough Council,more than one non-emergency target; maximum 85.0
+CM01,21UF,Lewes District Council,more than one non-emergency target; maximum 85.0
+CM01,21UH,Wealden District Council,more than one non-emergency target; maximum 28.0
+CM01,22UD,Brentwood Borough Council,more than one non-emergency target; maximum 28.0
+CM01,22UG,Colchester City Council,more than one non-emergency target; maximum 86.0
+CM01,22UH,Epping Forest District Council,more than one non-emergency target; maximum 30.0
+CM01,22UN,Tendring District Council,more than one non-emergency target; maximum 56.0
+CM01,22UQ,Uttlesford District Council,more than one non-emergency target; maximum 20.0
+CM01,23UB,Cheltenham Borough Council,more than one non-emergency target; maximum 15.0
+CM01,24UE,Fareham Borough Council,more than one non-emergency target; maximum 183.0
+CM01,24UF,Gosport Borough Council,more than one non-emergency target; maximum 20.0
+CM01,24UJ,New Forest District Council,more than one non-emergency target; maximum 63.0
+CM01,24UP,Winchester City Council,more than one non-emergency target; maximum 22.0
+CM01,26UC,Dacorum Borough Council,more than one non-emergency target; maximum 45.0
+CM01,26UH,Stevenage Borough Council,more than one non-emergency target; maximum 20.0
+CM01,26UL,Welwyn Hatfield Borough Council,more than one non-emergency target; maximum 45.0
+CM01,29UC,Canterbury City Council,more than one non-emergency target; maximum 25.0
+CM01,29UD,Dartford Borough Council,more than one non-emergency target; maximum 40.0
+CM01,29UE,Dover District Council,more than one non-emergency target; maximum 15.0
+CM01,29UL,Folkestone and Hythe District Council,more than one non-emergency target; maximum 16.0
+CM01,29UN,Thanet District Council,more than one non-emergency target; maximum 35.0
+CM01,30UH,Lancaster City Council,more than one non-emergency target; maximum 20.0
+CM01,30UP,West Lancashire Borough Council,more than one non-emergency target; maximum 28.0
+CM01,31UC,Charnwood Borough Council,more than one non-emergency target; maximum 90.0
+CM01,31UE,Hinckley and Bosworth Borough Council,more than one non-emergency target; maximum 28.0
+CM01,31UG,Melton Borough Council,more than one non-emergency target; maximum 28.0
+CM01,31UH,North West Leicestershire District Council,more than one non-emergency target; maximum 60.0
+CM01,31UJ,Oadby and Wigston Borough Council,more than one non-emergency target; maximum 25.0
+CM01,32UD,City of Lincoln Council,more than one non-emergency target; maximum 45.0
+CM01,32UE,North Kesteven District Council,more than one non-emergency target; maximum 20.0
+CM01,32UG,South Kesteven District Council,more than one non-emergency target; maximum 60.0
+CM01,33UD,Great Yarmouth Borough Council,more than one non-emergency target; maximum 28.0
+CM01,33UG,Norwich City Council,more than one non-emergency target; maximum 60.0
+CM01,37UB,Ashfield District Council,more than one non-emergency target; maximum 90.0
+CM01,37UC,Bassetlaw District Council,more than one non-emergency target; maximum 15.0
+CM01,37UD,Broxtowe Borough Council,more than one non-emergency target; maximum 40.0
+CM01,37UF,Mansfield District Council,more than one non-emergency target; maximum 20.0
+CM01,37UG,Newark and Sherwood District Council,more than one non-emergency target; maximum 30.0
+CM01,38UC,Oxford City Council,more than one non-emergency target; maximum 28.0
+CM01,41UB,Cannock Chase District Council,more than one non-emergency target; maximum 38.0
+CM01,41UK,Tamworth Borough Council,more than one non-emergency target; maximum 26.0
+CM01,42UB,Babergh District Council,more than one non-emergency target; maximum 20.0
+CM01,42UD,Ipswich Borough Council,more than one non-emergency target; maximum 60.0
+CM01,42UE,Mid Suffolk District Council,more than one non-emergency target; maximum 20.0
+CM01,43UL,Waverley Borough Council,more than one non-emergency target; maximum 28.0
+CM01,43UM,Woking Borough Council,more than one non-emergency target; maximum 20.0
+CM01,44UC,Nuneaton And Bedworth Borough Council,more than one non-emergency target; maximum 247.0
+CM01,44UF,Warwick District Council,more than one non-emergency target; maximum 40.0
+CM01,4568,Bolton at Home Limited,more than one non-emergency target; maximum 64.0
+CM01,4582,First Choice Homes Oldham Limited,more than one non-emergency target; maximum 90.0
+CM01,4584,Gloucester City Homes Limited,more than one non-emergency target; maximum 40.0
+CM01,45UB,Adur District Council,more than one non-emergency target; maximum 90.0
+CM01,45UE,Crawley Borough Council,more than one non-emergency target; maximum 20.0
+CM01,4607,Rochdale Boroughwide Housing Limited,more than one non-emergency target; maximum 60.0
+CM01,4609,Salix Homes Limited,more than one non-emergency target; maximum 60.0
+CM01,4634,Heart of Medway Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,4649,Onward Group Limited,more than one non-emergency target; maximum 90.0
+CM01,4651,Flagship Housing Limited,more than one non-emergency target; maximum 64.0
+CM01,4653,Regenda Limited,more than one non-emergency target; maximum 60.0
+CM01,4662,Inclusion Housing Community Interest Company,more than one non-emergency target; maximum 42.0
+CM01,4682,Red Kite Community Housing Limited,more than one non-emergency target; maximum 20.0
+CM01,4686,South Lakes Housing,more than one non-emergency target; maximum 60.0
+CM01,4718,Bespoke Supportive Tenancies Ltd,more than one non-emergency target; maximum 20.0
+CM01,4729,The Guinness Partnership Limited,more than one non-emergency target; maximum 60.0
+CM01,47UD,Redditch Borough Council,more than one non-emergency target; maximum 20.0
+CM01,4804,One Vision Housing Limited,more than one non-emergency target; maximum 60.0
+CM01,4808,One Manchester Limited,more than one non-emergency target; maximum 45.0
+CM01,4817,Nottingham Community Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,4826,Westward Housing Group Limited,more than one non-emergency target; maximum 60.0
+CM01,4844,Magna Housing Limited,more than one non-emergency target; maximum 64.0
+CM01,4846,Karbon Homes Limited,more than one non-emergency target; maximum 60.0
+CM01,4850,Vivid Housing Limited,more than one non-emergency target; maximum 21.0
+CM01,4857,Mosscare St. Vincent's Housing Group Limited,more than one non-emergency target; maximum 64.0
+CM01,4858,Castles & Coasts Housing Association Limited,more than one non-emergency target; maximum 21.0
+CM01,4868,Bernicia Group,more than one non-emergency target; maximum 60.0
+CM01,4873,LiveWest Homes Limited,more than one non-emergency target; maximum 64.0
+CM01,4877,Lincolnshire Housing Partnership Limited,more than one non-emergency target; maximum 60.0
+CM01,4878,Peabody Trust,more than one non-emergency target; maximum 22.0
+CM01,4880,Notting Hill Genesis,more than one non-emergency target; maximum 20.0
+CM01,5060,Amplius Living,more than one non-emergency target; maximum 90.0
+CM01,5065,Torus62 Limited,more than one non-emergency target; maximum 40.0
+CM01,5069,"Bournemouth, Christchurch and Poole Council",more than one non-emergency target; maximum 30.0
+CM01,5070,East Suffolk Council,more than one non-emergency target; maximum 90.0
+CM01,5071,Believe Housing Limited,more than one non-emergency target; maximum 40.0
+CM01,5079,Joseph Rowntree Housing Trust,more than one non-emergency target; maximum 28.0
+CM01,5125,Durham Aged Mineworkers' Homes Association,more than one non-emergency target; maximum 21.0
+CM01,5130,West Northamptonshire Council,more than one non-emergency target; maximum 64.0
+CM01,5171,Southern Housing,more than one non-emergency target; maximum 20.0
+CM01,5177,Westmorland and Furness Council,more than one non-emergency target; maximum 30.0
+CM01,5178,Somerset Council,more than one non-emergency target; maximum 20.0
+CM01,5179,North Yorkshire Council,more than one non-emergency target; maximum 20.0
+CM01,A1855,Railway Housing Association and Benefit Fund,more than one non-emergency target; maximum 31.0
+CM01,A4020,Pickering and Ferens Homes,more than one non-emergency target; maximum 20.0
+CM01,L0018,Hastoe Housing Association Limited,more than one non-emergency target; maximum 90.0
+CM01,L0026,Broadland Housing Association Limited,more than one non-emergency target; maximum 86.0
+CM01,L0028,Orwell Housing Association Limited,more than one non-emergency target; maximum 260.0
+CM01,L0055,Housing 21,more than one non-emergency target; maximum 28.0
+CM01,L0061,Irwell Valley Housing Association Limited,more than one non-emergency target; maximum 60.0
+CM01,L0078,South Yorkshire Housing Association Limited,more than one non-emergency target; maximum 56.0
+CM01,L0147,Cornerstone Housing Limited,more than one non-emergency target; maximum 90.0
+CM01,L0247,Sanctuary Housing Association,more than one non-emergency target; maximum 64.0
+CM01,L0386,Moat Homes Limited,more than one non-emergency target; maximum 21.0
+CM01,L0517,Gateway Housing Association Limited,more than one non-emergency target; maximum 24.0
+CM01,L0518,Warrington Housing Association Limited,more than one non-emergency target; maximum 21.0
+CM01,L0702,Bournville Village Trust,more than one non-emergency target; maximum 35.0
+CM01,L0717,Octavia Housing,more than one non-emergency target; maximum 90.0
+CM01,L0718,Hundred Houses Society Limited,more than one non-emergency target; maximum 20.0
+CM01,L0726,Metropolitan Housing Trust Limited,more than one non-emergency target; maximum 90.0
+CM01,L0871,Origin Housing Limited,more than one non-emergency target; maximum 28.0
+CM01,L0992,The Cambridge Housing Society Limited,more than one non-emergency target; maximum 20.0
+CM01,L1001,Prima Housing Group Limited,more than one non-emergency target; maximum 40.0
+CM01,L2179,Hightown Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,L2194,Muir Group Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,L2285,Connect Housing Association Limited,more than one non-emergency target; maximum 90.0
+CM01,L3076,Home Group Limited,more than one non-emergency target; maximum 28.0
+CM01,L3713,Arawak Walton Housing Association Limited,more than one non-emergency target; maximum 21.0
+CM01,L3736,Manningham Housing Association Limited,more than one non-emergency target; maximum 22.0
+CM01,L3758,Brighter Places,more than one non-emergency target; maximum 90.0
+CM01,L3808,Tuntum Housing Association Limited,more than one non-emergency target; maximum 21.0
+CM01,L3833,Nehemiah United Churches Housing Association Limited,more than one non-emergency target; maximum 14.0
+CM01,L4073,Housing Solutions,more than one non-emergency target; maximum 21.0
+CM01,L4123,Orbit Group Limited,more than one non-emergency target; maximum 65.0
+CM01,L4130,Soha Housing Limited,more than one non-emergency target; maximum 28.0
+CM01,L4140,Eden Housing Association Limited,more than one non-emergency target; maximum 60.0
+CM01,L4167,Empowering People Inspiring Communities Limited,more than one non-emergency target; maximum 14.0
+CM01,L4172,Abri Group Limited,more than one non-emergency target; maximum 64.0
+CM01,L4203,Your Housing Group Limited,more than one non-emergency target; maximum 45.0
+CM01,L4215,Paradigm Housing Group Limited,more than one non-emergency target; maximum 60.0
+CM01,L4219,Wythenshawe Community Housing Group Limited,more than one non-emergency target; maximum 60.0
+CM01,L4229,Acis Group Limited,more than one non-emergency target; maximum 28.0
+CM01,L4236,Places for People Group Limited,more than one non-emergency target; maximum 28.0
+CM01,L4238,Aspire Housing Limited,more than one non-emergency target; maximum 64.0
+CM01,L4240,A2Dominion Housing Group Limited,more than one non-emergency target; maximum 20.0
+CM01,L4254,Calico Homes Limited,more than one non-emergency target; maximum 130.0
+CM01,L4260,Tower Hamlets Community Housing,more than one non-emergency target; maximum 15.0
+CM01,L4279,Richmond Housing Partnership Limited,more than one non-emergency target; maximum 28.0
+CM01,L4312,Cottsway Housing Association Limited,more than one non-emergency target; maximum 64.0
+CM01,L4313,Gentoo Group Limited,more than one non-emergency target; maximum 260.0
+CM01,L4331,Chelmer Housing Partnership Limited,more than one non-emergency target; maximum 65.0
+CM01,L4334,Raven Housing Trust Limited,more than one non-emergency target; maximum 28.0
+CM01,L4341,Weaver Vale Housing Trust Limited,more than one non-emergency target; maximum 24.0
+CM01,L4361,Cobalt Housing Limited,more than one non-emergency target; maximum 20.0
+CM01,L4383,Watmos Community Homes,more than one non-emergency target; maximum 25.0
+CM01,L4385,Two Rivers Housing,more than one non-emergency target; maximum 20.0
+CM01,L4389,Walsall Housing Group Limited,more than one non-emergency target; maximum 65.0
+CM01,L4393,Aster Group Limited,more than one non-emergency target; maximum 20.0
+CM01,L4422,Ocean Housing Group Limited,more than one non-emergency target; maximum 40.0
+CM01,L4434,East End Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,L4435,Magenta Living,more than one non-emergency target; maximum 21.0
+CM01,L4449,Bromford Flagship Limited,more than one non-emergency target; maximum 90.0
+CM01,L4456,Halton Housing,more than one non-emergency target; maximum 90.0
+CM01,L4459,NSAH (Alliance Homes) Limited,more than one non-emergency target; maximum 90.0
+CM01,L4463,Freebridge Community Housing Limited,more than one non-emergency target; maximum 20.0
+CM01,L4464,Together Housing Group Limited,more than one non-emergency target; maximum 45.0
+CM01,L4466,Midland Heart Limited,more than one non-emergency target; maximum 90.0
+CM01,L4472,Cheshire Peaks & Plains Housing Trust Limited,more than one non-emergency target; maximum 64.0
+CM01,L4473,Fairhive Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,L4476,Incommunities Limited,more than one non-emergency target; maximum 40.0
+CM01,L4486,Ongo Homes Limited,more than one non-emergency target; maximum 60.0
+CM01,L4491,The Housing Plus Group Limited,more than one non-emergency target; maximum 28.0
+CM01,L4495,Watford Community Housing Trust,more than one non-emergency target; maximum 20.0
+CM01,L4499,Eastlight Community Homes Limited,more than one non-emergency target; maximum 64.0
+CM01,L4505,Phoenix Community Housing Association (Bellingham and Downham) Limited,more than one non-emergency target; maximum 20.0
+CM01,L4507,Southway Housing Trust (Manchester) Limited,more than one non-emergency target; maximum 20.0
+CM01,L4509,Greatwell Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,L4517,London & Quadrant Housing Trust,more than one non-emergency target; maximum 40.0
+CM01,L4520,Thrive Homes Limited,more than one non-emergency target; maximum 60.0
+CM01,L4521,Yorkshire Housing Limited,more than one non-emergency target; maximum 20.0
+CM01,L4522,Thirteen Housing Group Limited,more than one non-emergency target; maximum 28.0
+CM01,L4528,ForHousing Limited,more than one non-emergency target; maximum 56.0
+CM01,L4538,Livin Housing Limited,more than one non-emergency target; maximum 25.0
+CM01,L4543,Plymouth Community Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,L4552,The Riverside Group Limited,more than one non-emergency target; maximum 40.0
+CM01,L4556,Plus Dane Housing Limited,more than one non-emergency target; maximum 65.0
+CM01,LH0013,Look Ahead Care and Support Limited,more than one non-emergency target; maximum 20.0
+CM01,LH0032,Hyde Housing Association Limited,more than one non-emergency target; maximum 120.0
+CM01,LH0084,North Star Housing Group,more than one non-emergency target; maximum 30.0
+CM01,LH0155,Bournemouth Churches Housing Association Limited,more than one non-emergency target; maximum 21.0
+CM01,LH0269,Brunelcare,more than one non-emergency target; maximum 14.0
+CM01,LH0279,St Mungo Community Housing Association,more than one non-emergency target; maximum 60.0
+CM01,LH0280,Advance Housing and Support Limited,more than one non-emergency target; maximum 28.0
+CM01,LH0459,Habinteg Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,LH0495,Croydon Churches Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,LH0676,Christian Action (Enfield) Housing Association Limited,more than one non-emergency target; maximum 20.0
+CM01,LH0884,Arches Housing Limited,more than one non-emergency target; maximum 28.0
+CM01,LH2429,Salvation Army Housing Association,more than one non-emergency target; maximum 28.0
+CM01,LH3827,West Kent Housing Association,more than one non-emergency target; maximum 15.0
+CM01,LH3859,North London Muslim Housing Association Limited,more than one non-emergency target; maximum 28.0
+CM01,LH3902,GreenSquareAccord Limited,more than one non-emergency target; maximum 28.0
+CM01,LH4014,Broadacres Housing Association Limited,more than one non-emergency target; maximum 30.0
+CM01,LH4078,YMCA St Paul's Group,more than one non-emergency target; maximum 20.0
+CM01,LH4095,Anchor Hanover Group,more than one non-emergency target; maximum 20.0
+CM01,LH4097,Selwood Housing Society Limited,more than one non-emergency target; maximum 43.0
+CM01,LH4165,Coastline Housing Limited,more than one non-emergency target; maximum 60.0
+CM01,LH4184,Framework Housing Association,more than one non-emergency target; maximum 60.0
+CM01,LH4189,Progress Housing Group Limited,more than one non-emergency target; maximum 60.0
+CM01,LH4208,Worthing Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,LH4249,North Devon Homes,more than one non-emergency target; maximum 20.0
+CM01,LH4264,The Community Housing Group Limited,more than one non-emergency target; maximum 20.0
+CM01,LH4336,Curo Group (Albion) Limited,more than one non-emergency target; maximum 43.0
+CM01,LH4339,The Havebury Housing Partnership,more than one non-emergency target; maximum 35.0
+CM01,LH4343,Livv Housing Group,more than one non-emergency target; maximum 40.0
+CM01,LH4345,Jigsaw Homes Group Limited,more than one non-emergency target; maximum 90.0
+CM01,LH4353,Connexus Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,LH4401,Beyond Housing Limited,more than one non-emergency target; maximum 60.0
+CM01,LH4402,Golding Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,LH4403,Teign Housing,more than one non-emergency target; maximum 22.0
+CM01,LH4412,Saffron Housing Trust Limited,more than one non-emergency target; maximum 28.0
+CM01,LH4415,Bromsgrove District Housing Trust Limited,more than one non-emergency target; maximum 90.0
+CM01,LH4428,Cross Keys Homes Limited,more than one non-emergency target; maximum 20.0
+CM01,LH4454,Local Space,more than one non-emergency target; maximum 20.0
+CP02,00AE,London Borough of Brent,BS02 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,00AE,London Borough of Brent,BS03 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,00AE,London Borough of Brent,BS04 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,00AE,London Borough of Brent,BS05 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,00AU,London Borough of Islington,CH02_1 (LCRA): Excluded by RSH after review (see RSH comments)
+CP02,29UC,Canterbury City Council,RP01 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,45UB,Adur District Council,RP02_1 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,L0717,Octavia Housing,RP02_1 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,L0717,Octavia Housing,RP02_2 (ALL): Excluded by RSH after review (see RSH comments)
+CP02,L4203,Your Housing Group Limited,TP10 (LCRA): Excluded by RSH after review (see RSH comments)
+CP02,LH0279,St Mungo Community Housing Association,TP09 (LCRA): Excluded by RSH after review (see RSH comments)
+RG03,00AY,London Borough of Lambeth,"CH01_2 (LCRA) = 40.3 per 1,000; fence 38.7"
+RG03,00BB,London Borough of Newham,"NM01_1 (ALL) = 559.0 per 1,000; fence 163.2"
+RG03,00CS,Sandwell Metropolitan Borough Council,"NM01_1 (ALL) = 246.3 per 1,000; fence 163.2"
+RG03,31UC,Charnwood Borough Council,"NM01_2 (ALL) = 13.4 per 1,000; fence 4.2"
+RG03,31UE,Hinckley and Bosworth Borough Council,"NM01_1 (ALL) = 190.6 per 1,000; fence 163.2"
+RG03,5083,Sage Rented Limited,"NM01_1 (ALL) = 189.6 per 1,000; fence 163.2"
+RG03,5177,Westmorland and Furness Council,"NM01_1 (ALL) = 163.7 per 1,000; fence 163.2"
+RG03,5177,Westmorland and Furness Council,"NM01_2 (ALL) = 4.3 per 1,000; fence 4.2"
+RG03,L0061,Irwell Valley Housing Association Limited,"NM01_2 (ALL) = 10.0 per 1,000; fence 4.2"
+RG03,L0277,Wandle Housing Association Limited,"CH01_1 (LCRA) = 195.6 per 1,000; fence 187.3"
+RG03,L0277,Wandle Housing Association Limited,"CH01_2 (LCRA) = 41.1 per 1,000; fence 38.7"
+RG03,L0277,Wandle Housing Association Limited,"NM01_2 (ALL) = 4.4 per 1,000; fence 4.2"
+RG03,L3535,Estuary Housing Association Limited,"CH01_2 (LCRA) = 43.1 per 1,000; fence 38.7"
+RG03,L4240,A2Dominion Housing Group Limited,"CH01_1 (LCHO) = 194.2 per 1,000; fence 150.8"
+RG03,L4240,A2Dominion Housing Group Limited,"CH01_1 (LCRA) = 199.9 per 1,000; fence 187.3"
+RG03,L4240,A2Dominion Housing Group Limited,"CH01_2 (LCHO) = 56.0 per 1,000; fence 55.5"
+RG03,L4240,A2Dominion Housing Group Limited,"CH01_2 (LCRA) = 47.1 per 1,000; fence 38.7"
+RG03,L4240,A2Dominion Housing Group Limited,"NM01_2 (ALL) = 8.7 per 1,000; fence 4.2"
+RG03,L4260,Tower Hamlets Community Housing,"CH01_2 (LCRA) = 45.0 per 1,000; fence 38.7"
+RG03,L4279,Richmond Housing Partnership Limited,"CH01_2 (LCRA) = 40.1 per 1,000; fence 38.7"
+RG03,L4441,Vico Homes Limited,"NM01_1 (ALL) = 190.8 per 1,000; fence 163.2"
+RG03,L4520,Thrive Homes Limited,"CH01_2 (LCRA) = 39.0 per 1,000; fence 38.7"
+RG03,LH2429,Salvation Army Housing Association,"NM01_2 (ALL) = 10.9 per 1,000; fence 4.2"
+RG03,LH3902,GreenSquareAccord Limited,"CH01_1 (LCRA) = 194.1 per 1,000; fence 187.3"
+RG03,LH3902,GreenSquareAccord Limited,"CH01_2 (LCRA) = 44.7 per 1,000; fence 38.7"
+RG03,LH4078,YMCA St Paul's Group,"NM01_1 (ALL) = 238.1 per 1,000; fence 163.2"
+RG03,LH4078,YMCA St Paul's Group,"NM01_2 (ALL) = 19.2 per 1,000; fence 4.2"
+RG04,00FA,Kingston upon Hull City Council,LCRA: 1004 responses against a minimum of 1018.3
+RG04,00MG,Milton Keynes Council,LCHO: 222 responses against a minimum of 305.0
+RG04,4634,Heart of Medway Housing Association Limited,COMB: 188 responses against a minimum of 286.7
+RG04,4649,Onward Group Limited,LCRA: 2214 responses against a minimum of 2214.6
+RG04,4817,Nottingham Community Housing Association Limited,LCHO: 300 responses against a minimum of 302.3
+RG04,4846,Karbon Homes Limited,LCHO: 222 responses against a minimum of 281.0
+RG04,4873,LiveWest Homes Limited,LCRA: 2114 responses against a minimum of 2238.4
+RG04,L4441,Vico Homes Limited,LCHO: 267 responses against a minimum of 286.2
+RG04,LH0280,Advance Housing and Support Limited,LCRA: 302 responses against a minimum of 307.5
+RG04,LH3902,GreenSquareAccord Limited,LCHO: 211 responses against a minimum of 315.5
+RG04,LH4428,Cross Keys Homes Limited,LCHO: 293 responses against a minimum of 297.9
+RI03,4743,Grainger Trust Limited,"Management information: flagged as excluded, but not on RSH's exclusion list (no reason published)"
+RI03,4743,Grainger Trust Limited,"Perception: flagged as excluded, but not on RSH's exclusion list (no reason published)"
+RI03,5092,ReSI Homes Limited,"Management information: flagged as excluded, but not on RSH's exclusion list (no reason published)"
+RI03,5092,ReSI Homes Limited,"Perception: flagged as excluded, but not on RSH's exclusion list (no reason published)"
+RI03,H1046,The Abbeyfield Society,"Management information: flagged as excluded, but not on RSH's exclusion list (no reason published)"
+RI03,H1046,The Abbeyfield Society,"Perception: flagged as excluded, but not on RSH's exclusion list (no reason published)"
