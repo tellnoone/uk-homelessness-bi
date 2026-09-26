@@ -1,0 +1,2 @@
+# Preserve raw source data byte-for-byte: no line-ending conversion.
+data/raw/** -text
