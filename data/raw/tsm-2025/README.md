@@ -5,7 +5,7 @@ Files are kept under their original published names so they stay traceable to th
 source release. **Do not edit these in place** — write derived outputs to
 `data/processed/` instead.
 
-| File | Contents | Rows | Cols |
+| File | Contents | Records | Cols |
 | --- | --- | ---: | ---: |
 | File 01 — LCRA_perception | Low Cost Rental Accommodation: tenant perception measures | 353 | 135 |
 | File 02 — LCHO_perception | Low Cost Home Ownership: tenant perception measures | 59 | 111 |
@@ -13,7 +13,7 @@ source release. **Do not edit these in place** — write derived outputs to
 | File 04 — Management_info | Landlord-reported management information measures | 359 | 104 |
 | File 05 — Perception_not_inc | Landlords whose perception data RSH excluded, with reasons | 2 | 3 |
 | File 06 — Man_not_inc | Landlords whose management info RSH excluded, with reasons | 1 | 3 |
-| File 0A — Data_dictionary | Field-level definitions for all measures | 521 | 8 |
+| File 0A — Data_dictionary | Field-level definitions for all measures | 485 | 8 |
 | File 0B — Table_coverage | Which tables each landlord appears in | 363 | 9 |
 
 ## Joining
@@ -27,8 +27,11 @@ which table before joining.
 
 - Files are UTF-8 **with BOM**. Read with `encoding="utf-8-sig"` in pandas, or the
   first column name will come through as `ï»¿ProviderName`.
-- Suppression markers appear in place of numbers: `[X]` (not applicable / not
-  collected) and `[S]` (suppressed). These make otherwise-numeric columns parse as
+- Status markers appear in place of numbers: `[X]` (not available for this
+  breakdown), `[S]` (suppressed), `[Z]` (not applicable), `[E]` (excluded by RSH
+  after review) and `[U]` (measure does not apply to this landlord). The files
+  do not define them; see `docs/modelling_decisions.md` for the evidence behind
+  each meaning. These make otherwise-numeric columns parse as
   strings — coerce explicitly rather than relying on dtype inference.
 - Some fields are quoted and contain commas and newlines (notably the RSH notes in
   Files 05 and 06), so use a real CSV parser, not a line split.
